@@ -1,20 +1,22 @@
 {
-  "short_name": "AbsensiPro",
-  "name": "Sistem Absensi Sekolah",
+  "short_name": "Absensi",
+  "name": "AbsensiPro",
   "icons": [
     {
-      "src": "assets/icon-192.png",
+      "src": "/assets/icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "assets/icon-512.png",
+      "src": "/assets/icon-512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any maskable"
     }
   ],
-  "start_url": ".",
+  "start_url": "/",
   "display": "standalone",
+  "orientation": "portrait",
   "theme_color": "#ffffff",
-  "background_color": "#ffffff"
+  "background_color": "#f8fafc"
 }

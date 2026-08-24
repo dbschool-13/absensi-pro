@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  /* Premium Glassmorphism Effect */
+  .glass-panel {
+    @apply bg-white/70 backdrop-blur-md border border-white/40 shadow-[0_8px_32px_0_rgba(31,38,135,0.07)] rounded-2xl;
+  }
+  
+  .glass-header {
+    @apply bg-gradient-to-r from-blue-600 to-indigo-700 text-white shadow-lg;
+  }
+}
+
+body {
+  @apply bg-slate-50 text-slate-800 antialiased;
+}

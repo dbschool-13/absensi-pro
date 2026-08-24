@@ -1,0 +1,2 @@
+// TODO: PASTE URL APLIKASI WEB GAS ANDA DISINI (CUKUP 1 KALI SAJA DI SINI)
+export const GAS_API_URL = "https://script.google.com/macros/s/AKfycbwVJ6jPLIAr1dGPp-CXnp1XT7ZmLsaAPMPtYSNfHF1BkEJ623PxwHzTDYQujK1iTVqj/exec";

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AbsensiPro</string>
+    <string name="title_activity_main">AbsensiPro</string>
+    <string name="package_name">com.sekolah.absensipro</string>
+    <string name="custom_url_scheme">com.sekolah.absensipro</string>
+</resources>

@@ -1,0 +1,20 @@
+{
+  "appId": "com.sekolah.absensipro",
+  "appName": "AbsensiPro",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2500,
+      "launchAutoHide": true,
+      "backgroundColor": "#ffffff",
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "CENTER_CROP",
+      "showSpinner": true,
+      "androidSpinnerStyle": "large",
+      "spinnerColor": "#3b82f6",
+      "splashFullScreen": true,
+      "splashImmersive": true
+    }
+  }
+}
